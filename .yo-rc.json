@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "w45 speech",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "paulwooddesign",
+    "githubRepository": "w45-speech"
+  }
+}
